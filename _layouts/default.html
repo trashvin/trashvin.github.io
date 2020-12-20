@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body >
+
+    {% include sidebar.html %}
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container row">
+            <h3 class="masthead-title">
+              <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}&nbsp;&nbsp;<i class="fas fa-code-branch"></i></a>&nbsp;&nbsp;
+              
+              <small>{{ site.tagline }}</small>
+            </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        {{ content }}
+        
+      </div>
+      <footer style="display: flex;justify-content: center;margin-bottom: 20px; margin-top: 10px;">
+       
+          <i class="fas fa-laptop-code"></i>&nbsp;<i class="fas fa-plus-square"></i>&nbsp;
+          <i class="fas fa-mug-hot"></i>&nbsp;<i class="fas fa-plus-square"></i>&nbsp;
+          <i class="fas fa-headphones-alt"></i>&nbsp;<i class="fas fa-equals"></i>&nbsp;<i class="fas fa-rocket"></i>
+      </footer>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script src='{{ site.baseurl }}/public/js/script.js'></script>
+  </body>
+</html>

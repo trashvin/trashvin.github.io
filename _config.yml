@@ -1,0 +1,22 @@
+# Setup
+title:               Marvin Trilles 
+tagline:             'my binary thoughts on caffeine'
+description:         'Marvin is a software developer based in the Philippines. He has been designing and developing software applications for more than 15 years. '
+url:                 'http://127.0.0.1:4000'
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Marvin Trilles
+  url:               https://twitter.com/m3lles
+  email:             m3lles@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.0.0
+google_analytics_id: #UA-XXXX-Y
