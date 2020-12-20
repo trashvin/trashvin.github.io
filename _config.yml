@@ -2,7 +2,7 @@
 title:               Marvin Trilles 
 tagline:             'my binary thoughts on caffeine'
 description:         'Marvin is a software developer based in the Philippines. He has been designing and developing software applications for more than 15 years. '
-url:                 'http://trashvin.github.io'
+url:                 'https://trashvin.github.io'
 baseurl:             ''
 paginate:            5
 permalink:           pretty
