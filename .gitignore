@@ -3,6 +3,9 @@ _site
 .jekyll-metadata
 *-cache/
 
+### for test ###
+_config.yml
+
 
 ### NPM ###
 /node_modules/
