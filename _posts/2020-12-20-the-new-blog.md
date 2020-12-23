@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Blog v2.0
-tags: personal,
+comments: true
+tags : ["personal"]
 ---
 ![new blog](https://i.imgur.com/7mAMqgG.jpg)
 
