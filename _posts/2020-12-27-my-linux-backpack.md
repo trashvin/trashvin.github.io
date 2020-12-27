@@ -4,8 +4,7 @@ title: My Linux Backpack
 comments: true
 tags : ["personal","linux"]
 ---
-# My Linux Backpack
-![my linux backpack](https://i.imgur.com/5Nc4PL2.jpg)
+![my linux backpack](https://i.imgur.com/5Nc4PL2.jpg)(photo grabbed from internet)
 
 I'm a MacOS guy for several years until my MBP died on me last year and haven't got a replacement for it. However, my 8 to 5 job revolves around Windows. Recently, Win10 has been working great for me. But, I always wanted a development environment that is different from what I use every day at work, change of scenery of some sort. So for 3 to 4 months I was reviewing the different flavors of Linux has to offer. Ubuntu has always got a soft spot for me, I have been on and off the platform since 2006. However, the current interface has put me off. Either my system lags using it or I just need a more efficient OS. I'm not into games or the fancy graphics stuff anyway, I just need a reliable development machine. Eventually, I have decided to go with Bunt, an Ubuntu flavor utilizing a more resource friendly xfce interface. I never looked back since then.
 
