@@ -11,3 +11,4 @@ Finally, I'm moving to this new blog after decades at blogspot. I don't have any
 ## What's New
 
 For more than a decade now, my work has never changed. However, recent changes and opportunities ignited excitement. No new projects, but possible learnings and future development are coming. Along with that, new knowledge to share!
+<!--more-->
