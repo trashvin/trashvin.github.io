@@ -21,7 +21,7 @@ With Visual Studio Code, you can host your Jupyter Notebook seamlessly into the 
 - Jupyter Extension for Visual Studio Code - A Visual Studio Code extension that provides basic notebook support for language kernels that are supported in Jupyter Notebooks today.
 
 Once you have these installed, we are ready to roll.
-
+<!--more-->
 ## Starting our Jupyter Notebook
 
 To work with Jupyter you need to start the Jupyter server, using the command below
