@@ -41,7 +41,7 @@ Create a new file by either creating a file using the Jupyter command or manuall
 
 ![the jupyter menu in VSCode](https://i.imgur.com/TMotCoS.png)
 
-Once to notebook file is opened in VSCode, the system will connect to the running instance of the Jupyter Notebook.  The VSCode interface will give the user the following status:
+Once the notebook file is opened in VSCode, the system will connect to the running instance of the Jupyter Notebook.  The VSCode interface will give the user the following status:
 
 - The kernel that is being used to run the notebook. In the image below you will see that I am using Python 3.8.5 inside a virtual environment 'venv'. See the section in green box on the image below.
 - The location of the Jupyter Server, in my case, it is local.
@@ -75,7 +75,7 @@ Create a code cell on your new notebook and use the code above. We will step thr
 
 As you can see, I can analyze the variables as I run the code line by line. I can even view the data with a data viewer. This will be important if you are dealing with more complex data structures in your code.
 
-Go ahead and start debugging your notebooks with Visual Studio Code. I have read that JupyterLab has this feature too, I came from a background that uses VSCode in most of my work so I have opted to use Visual Studio Code.
+Go ahead and start debugging your notebooks with Visual Studio Code. I have read that JupyterLab has this feature too. I came from a background that uses VSCode in most of my work so I have opted to use Visual Studio Code.
 
 Do you use VSCode for your Jupyter Notebook tasks? How do you find debugging notebooks in VSCode? Let me know in the comment section below.
 
