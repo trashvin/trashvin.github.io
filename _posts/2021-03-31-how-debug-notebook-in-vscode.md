@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ![notebook debug session](https://i.imgur.com/oA7qK7U.png)
 
 Debugging your code is a common activity for developers. In my daily grind, most of my time is doing F10's to a code and watch variables change value - the sad story of a software maintenance guy using Visual Studio. So when I began using Jupyter Notebook, one of my first question was - How do I step trough the code and debug this thing?. Most common reply I got was, "well, if your stuck with Jupyter, just use print". For most basic tasks, yes. Simple print is all we need, but as you dive deeper into the world of creating complex programs using the notebook, you need more than print.
-
+<!--more-->
 Fortunately, Visual Studio Code has a nice way to do it. So before we go ahead and start F10-ing our code, some prerequisites:
 
 - [Visual Studio Code](https://code.visualstudio.com/) - its free, its great, its awesome.
@@ -21,7 +21,7 @@ With Visual Studio Code, you can host your Jupyter Notebook seamlessly into the 
 - Jupyter Extension for Visual Studio Code - A Visual Studio Code extension that provides basic notebook support for language kernels that are supported in Jupyter Notebooks today.
 
 Once you have these installed, we are ready to roll.
-<!--more-->
+
 ## Starting our Jupyter Notebook
 
 To work with Jupyter you need to start the Jupyter server, using the command below
