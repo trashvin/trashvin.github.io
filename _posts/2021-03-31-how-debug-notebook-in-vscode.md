@@ -69,8 +69,7 @@ print(f"mouse count : {mouse_count}")
 
 Create a code cell on your new notebook and use the code above. We will step through the code and watch the contents of all variables as we go along. Select the cell and instead of clicking on the 'run' button, we click on the 'debug' button ( this is the button encircled in yellow in the image above). This will start a debugging session. The watch window will be visible for us to look at the values as we step through the code. If the watch section is not visible, you can click on the 'show variables' button ( see the button encircled in red in the image above). To continue stepping through the code, just click on the 'debug' button or press F10.
 
-![Imgur](https://i.imgur.com/xgcPJ0G.gif)
-
+[![](http://img.youtube.com/vi/1X26G19sXOQ/0.jpg)](http://www.youtube.com/watch?v=1X26G19sXOQ "")
 
 
 As you can see, I can analyze the variables as I run the code line by line. I can even view the data with a data viewer. This will be important if you are dealing with more complex data structures in your code.
