@@ -58,4 +58,14 @@ The ability to learn programming concepts and apply them to solve problems is an
 
 What are these concepts?
 
+<<<<<<< HEAD
 Basic Constructs. Being knowledgable to the basic constructs almost common to all general purpose programming language is essential. As a developer, one must be 
+=======
+1. Basic constructs. A programmer must be comfortable using the different programming construct of a language he/she intends to use. A programmer must have a good understanding on the basic principles behind these constructs. There are three different concepts that we must understand:
+   - Sequence - this involves the steps which are to be executed one after the other. 
+   - Selection - are statements used to choose a specific path dependent on a condition. The most common example is the "if-statement". 
+   - Repetition - allows a portion of an algorithm or program to be executed many times. We usually refer to these as loops. A developer must be able to use iterations and recursions when needed. More importantly, we must be able to understand why we should be using iteration over recursion or vice versa.
+2. Subroutines. These are sub parts of a program that can be called in the main program, usually, we refer to them as methods or functions. A developer must be able to know when to separate the solution into subroutines. This is similar to the "divide and conquer" technique I have mentioned in the early part of the discussion. By effectively using subroutines, we may be able to make our programs more modular, easier to read or understand, and easier to maintain.
+3. Object oriented programming. This is a widely used paradigm in organizing and modeling program. With this concept, we as developer tends to model our solutions based on real world objects. This post does not intend to elaborately discuss OOP but rather gives an emphasis on its importance to developers. Modern paradigms are also being used now (i.e. functional programming) but OOP is still widely used and is supported by most programming language. A brief introduction on OOP can be found [here](https://en.wikipedia.org/wiki/Object-oriented_programming).
+4. Design patterns. In relation to OOP, 
+>>>>>>> refs/remotes/origin/main
