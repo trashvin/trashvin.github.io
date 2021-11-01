@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 ---
 ![the anatomy](https://i.imgur.com/RnapIVi.png)
 <pre style="color:grey;font-style:italic;border-left: 5px solid green;padding-left: 20px;font-size:13px">
-Last December, I was asked to give a short talk infront of fresh graduates and career shifters. My topic, the basic skills a developer must poses to get started in the industry. I ended up referencing the anatomy of a human being.
+Last year, I was asked to give a short talk infront of fresh graduates and career shifters. My topic, the basic skills a developer must poses to get started in the industry. I ended up referencing the anatomy of a human being.
 </pre>
 When I was about to graduate from college or even when I tried moving to another workplace, I always have doubts on whether my skills measure up. Experience would tell me that there are basic skills any developer on any level must possess to survive the competition. In this blog post, I will map these skills to a generic anatomy of a human.
 
@@ -54,6 +54,8 @@ Now we proceed to the next skill, transforming your solution to something the co
 ## Coding or Programming Skills
 ![coding skills](https://i.imgur.com/6a0UaRR.png)
 
-The ability to learn programming concepts and apply them to solve problems is an essential sill for a software developer.  Take note of the term "programming concepts" and not "programming language or syntax". Since this skill gives us the ability to start realizing solutions to problems, we can refer to it as one of the hands or arms of a developer.
+The ability to learn programming concepts and apply them to solve problems is an essential skill for a software developer.  Take note of the term "programming concepts" and not "programming language or syntax". Since this skill gives us the ability to start realizing solutions to problems, we can refer to it as one of the hands or arms of a developer.
 
 What are these concepts?
+
+Basic Constructs. Being knowledgable to the basic constructs almost common to all general purpose programming language is essential. As a developer, one must be 
