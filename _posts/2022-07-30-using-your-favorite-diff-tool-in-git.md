@@ -7,7 +7,9 @@ excerpt_separator: <!--more-->
 ---
 ![Imgur](https://i.imgur.com/SEJySuQ.jpg)(photo grabbed from internet)
 
-In a team that has more than 1 developer working on the same project, comparing source codes can be an everyday task. Often times,we need to know the difference between two version of files in a branch or on different branch. Git gave use a bare bones tool right for the job, the ***git diff***. But as I have mentioned, its a bare bones approach. When dealing with lenghty files with multiple differences you will always prefer your go to diff tool  e.g. winmerge, kdiff etc. Luckily, GiHub supports this scenario using ***git difftool***.  In this post, we are configuring the git system to use KDiff  as the diff tool. You can go ahead and use other tool if you want too.
+In a team that has more than 1 developer working on the same project, comparing source codes can be an everyday task. Often times,we need to know the difference between two version of files in a branch or on different branch. Git gave use a bare bones tool right for the job, the ***git diff***. But as I have mentioned, its a bare bones approach. When dealing with lenghty files with multiple differences you will always prefer your go to diff tool  e.g. winmerge, kdiff etc. Luckily, GiHub supports this scenario using ***git difftool***.  
+
+In this post, we are configuring the git system to use KDiff  as the diff tool. You can go ahead and use other tool if you want too.
 
 ## What do we need?
 
