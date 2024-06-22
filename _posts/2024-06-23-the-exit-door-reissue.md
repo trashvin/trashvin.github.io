@@ -3,6 +3,7 @@ layout: post
 title: The Exit Door (re-issue)
 comments: true
 tags : ["personal"]
+excerpt_separator: <!--more-->
 ---
 ![the exit door](https://ilt-2021.s3.amazonaws.com/wp-content/uploads/2022/03/02102406/Screenshot-2020-11-02-110920.jpg)
 
