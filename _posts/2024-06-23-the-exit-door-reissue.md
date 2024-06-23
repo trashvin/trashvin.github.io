@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Exit Door (re-issue)
+title: The Exit Door
 comments: true
 tags : ["personal"]
 excerpt_separator: <!--more-->
