@@ -5,10 +5,10 @@ comments: true
 tags : ["personal"]
 excerpt_separator: <!--more-->
 ---
-![the exit door](https://ilt-2021.s3.amazonaws.com/wp-content/uploads/2022/03/02102406/Screenshot-2020-11-02-110920.jpg)(📷: internet)
+![the exit door](https://ilt-2021.s3.amazonaws.com/wp-content/uploads/2022/03/02102406/Screenshot-2020-11-02-110920.jpg)(photo grabbed from internet)
 
 ```
-This post was originally published in my old blog last March 07, 2013. While I may not moved, the post deserves a re-issue.
+This post was originally published in my old blog last March 07, 2013. While I have not moved since then, the post deserves a re-issue.
 ```
 
 A few years ago , I wrote about the concept of singleton and eventually mentioned the term "Resign Patterns" in the process.  In the realm of software engineering, design pattern is a general reusable solution to a commonly occurring problem within a given context in  software design. Similarly, resignation has been a general solution to a commonly occurring problem within a workplace.  Having only passed two resignation letters since I started working, clearly shows that I was never a fan of this solution. However, it does not mean that I am not fascinated by it and that my mind is not cheerfully entertaining and  playing with the idea of bidding goodbye to my bosses at some point.
